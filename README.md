@@ -1,5 +1,11 @@
 # Lucene plugin for SilverStripe 2.4
 
+NOTE!  These docs are completely wrong and need a total overhaul!
+Do not use this module.
+
+The Solr part works for SilverStripe 3.1, but there are no docs on how to use it.
+
+
 ## Overview
 
 This plugin for the SilverStripe framework allows you to harness the power of 
